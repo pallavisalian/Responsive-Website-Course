@@ -1,0 +1,43 @@
+body {
+  background: skyblue;
+  background-image: url("C:\Users\Pallavi\Desktop\RespWebsiteCourse\1.jpg");
+}
+img {
+  width: 100px;
+  height: 100px;
+}
+.image {
+  margin: 10px;
+  padding: 5px;
+}
+#name {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  color: orange;
+  font-size: 100px;
+  margin-left: 450px;
+}
+
+.one {
+  border-color: black;
+  border-radius: 8px;
+  background-color: burlywood;
+}
+.two {
+  margin-left: 25px;
+  padding: 8px;
+  width: 45%;
+  height: 50%;
+}
+
+.three {
+  margin-right: 25px;
+  padding: 8px;
+  width: 45%;
+  height: 80%;
+  margin-bottom: 200px;
+}
+
+table {
+  background-color: darkgray;
+  width: 100%;
+}
